@@ -10,7 +10,7 @@
                                       {
                                           "repo":  "https://github.com/BW-PA/Contoso-Common",
                                           "release_status":  "latestBuild",
-                                          "AuthTokenSecret": "NewToken"
+                                          "AuthTokenSecret": "ContosoCommonPAT"
                                       }
                                   ],
     "installApps":  [
@@ -19,4 +19,5 @@
     "generateDependencyArtifact":  true,
     "RepoVersion":  "2.0"
 }
+
 

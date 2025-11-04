@@ -8,7 +8,7 @@
                     ],
     "appDependencyProbingPaths":  [
                                       {
-                                          "repo":  "https://github.com/businesscentralapps/contoso-common",
+                                          "repo":  "https://github.com/BW-PA/Contoso-Common",
                                           "release_status":  "latestBuild",
                                           "AuthTokenSecret": "NewToken"
                                       }
@@ -19,3 +19,4 @@
     "generateDependencyArtifact":  true,
     "RepoVersion":  "2.0"
 }
+

@@ -3,5 +3,11 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
   "templateSha": "0fa7e9756b6e3ad9389c206b124646ae2e2eab08",
-  "GhTokenWorkflowSecretName": "GHTOKENWORKFLOW"
+  "GhTokenWorkflowSecretName": "GHTOKENWORKFLOW",
+  "DeployToSandboxAUv26": {
+    "DependencyInstallMode": "install"
+  },
+  "DeployToSandboxAUv27": {
+    "DependencyInstallMode": "install"
+  }
 }

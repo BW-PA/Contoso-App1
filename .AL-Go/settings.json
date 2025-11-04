@@ -6,7 +6,7 @@
   "appDependencyProbingPaths": [
     {
       "repo": "https://github.com/BW-PA/Contoso-Common",
-      "release_status": "latestBuild",
+      "release_status": "release",
       "AuthTokenSecret": "ContosoCommonPAT"
     }
   ],

@@ -28,12 +28,6 @@
                              "publisher":  "Contoso",
                              "name":  "LibraryApp1",
                              "version":  "1.0.0.0"
-                         },
-                         {
-                             "id":  "165d73c1-39a4-4fb6-85a5-925edc1684fb",
-                             "publisher":  "Freddy Kristiansen",
-                             "name":  "BingMaps.PTE",
-                             "version":  "1.0.0.0"
                          }
                      ],
     "screenshots":  [
@@ -53,3 +47,4 @@
                                    "includeSourceInSymbolFile":  false
                                }
 }
+
